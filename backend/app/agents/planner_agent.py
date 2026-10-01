@@ -123,11 +123,15 @@ class PlannerAgent:
 
         existing_tasks = [f"- {t.task_id}: {t.title} [{t.status.value}]" for t in state.tasks.values()]
 
+        existing_section = ""
+        if existing_tasks:
+            existing_section = "Existing tasks (may need updating):\n" + "\n".join(existing_tasks) + "\n\n"
+
         return (
             f"Create an execution plan for recovering from: {event.event_type.value if event else 'life disruption'}\n\n"
             f"Dependency graph nodes:\n" + "\n".join(nodes) + "\n\n"
             f"Dependencies:\n" + "\n".join(edges) + "\n\n"
-            f"{'Existing tasks (may need updating):\n' + chr(10).join(existing_tasks) + chr(10) + chr(10) if existing_tasks else ''}"
+            f"{existing_section}"
             f"Create tasks for each actionable item. Agents available:\n"
             f"- EducationAgent: handles college/exam matters (tool: CollegeAPI)\n"
             f"- InsuranceAgent: handles claims (tool: InsuranceAPI)\n"
