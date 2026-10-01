@@ -1,5 +1,7 @@
 import { useEffect, useRef, useCallback, useState } from 'react';
 import type { AgentEvent } from '../types';
+import { WS_BASE } from '../services/api';
+
 
 interface UseWebSocketOptions {
   sessionId: string | null;
@@ -27,7 +29,7 @@ export function useWebSocket({
     if (!sessionId) return;
     if (wsRef.current?.readyState === WebSocket.OPEN) return;
 
-    const wsUrl = `ws://${window.location.host}/ws/events/${sessionId}`;
+    const wsUrl = `${WS_BASE}/ws/events/${sessionId}`;
     const ws = new WebSocket(wsUrl);
     wsRef.current = ws;
 

@@ -1,7 +1,14 @@
 import axios from 'axios';
 import type { RAAHATState, GraphData } from '../types';
 
-const API_BASE = '/api';
+const API_BASE = import.meta.env.VITE_API_URL
+  ? `${import.meta.env.VITE_API_URL}/api`
+  : '/api';
+
+export const WS_BASE = import.meta.env.VITE_WS_URL
+  ? import.meta.env.VITE_WS_URL
+  : (window.location.protocol === 'https:' ? 'wss' : 'ws') + '://' + window.location.host;
+
 
 const api = axios.create({
   baseURL: API_BASE,
