@@ -1,0 +1,61 @@
+CITY GENERAL HOSPITAL - MEDICAL DOCUMENT REQUEST POLICY
+[SANDBOX DEMO DOCUMENT - NOT A REAL HOSPITAL POLICY]
+
+Institution: City General Hospital (SANDBOX)
+Department: Medical Records
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+AVAILABLE MEDICAL DOCUMENTS
+
+1. DISCHARGE SUMMARY
+   - Comprehensive summary of hospitalization
+   - Includes: diagnosis, treatment, medications, follow-up instructions
+   - Signed by the attending physician
+   - Processing time: 24-48 hours (emergency requests: same day)
+
+2. ADMISSION NOTE
+   - Record of initial patient assessment on admission
+   - Includes: presenting complaints, vital signs, initial diagnosis
+   - Processing time: Same day
+
+3. MEDICAL CERTIFICATE
+   - Certifies period of medical incapacity
+   - States dates during which patient was unfit for normal activities
+   - Signed by treating physician
+   - Processing time: Same day
+
+4. INVESTIGATION REPORTS
+   - Blood work, imaging, ECG results
+   - Processing time: 1-2 days
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+HOW TO REQUEST DOCUMENTS
+
+Option 1: Online Portal
+    - Access: records.citygeneralhospital.com/portal (DEMO)
+    - Login with your Patient ID and date of birth
+    - Select required documents
+    - Specify purpose (insurance claim / educational institution / personal)
+
+Option 2: In-Person
+    - Visit Medical Records Department (Ground Floor, Block A)
+    - Bring ID proof and patient registration number
+    - Fill Request Form MR-2024
+
+Option 3: Authorized Representative
+    - If patient is unable to request personally, an authorized representative may do so
+    - Requires: Authorization letter, representative's ID, patient's ID copy
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DOCUMENT FEES (DEMO RATES)
+    - Discharge Summary: ₹50
+    - Medical Certificate: ₹30
+    - Admission Note: ₹30
+    - Investigation Reports: ₹20 per page
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DISCLAIMER: SANDBOX demo document. City General Hospital is fictional.

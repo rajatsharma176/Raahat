@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+.env
+.venv
+venv/
+env/
+*.egg-info/
+dist/
+build/
+*.egg
+.Python
+*.so
+
+# SQLite DB (runtime data)
+*.db
+*.db-shm
+*.db-wal
+
+# FastAPI / uvicorn
+*.log
+
+# Node / Frontend
+node_modules/
+frontend/dist/
+frontend/.vite/
+frontend/node_modules/
+*.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# FAISS index (regenerated on start)
+backend/app/rag/faiss_index.bin
+backend/app/rag/faiss_metadata.json
+
+# API keys
+.env
+.env.*
+!.env.example

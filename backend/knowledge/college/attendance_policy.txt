@@ -1,0 +1,78 @@
+DEMO UNIVERSITY - MEDICAL LEAVE AND ATTENDANCE POLICY
+[SANDBOX DEMO DOCUMENT - NOT A REAL INSTITUTIONAL POLICY]
+
+Document ID: POL-ATT-2024
+Version: 3.2
+Effective Date: August 1, 2024
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 1: ATTENDANCE REQUIREMENTS
+
+1.1 All students must maintain a minimum of 75% attendance in each course to be eligible to appear for semester examinations.
+
+1.2 Students with attendance between 65% and 75% may be allowed to appear for examinations upon approval of the Dean of Academic Affairs, provided valid reasons are documented.
+
+1.3 Students with attendance below 65% will be considered debarred from examinations unless special dispensation is granted under Section 4 (Medical Emergency Provisions).
+
+1.4 Attendance is calculated based on the total number of classes held in each course.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 2: MEDICAL LEAVE PROVISIONS
+
+2.1 Students who are absent due to illness, injury, or other documented medical conditions may apply for medical leave.
+
+2.2 Medical leave applications must be submitted within 5 working days of returning to the institution.
+
+2.3 Required documentation for medical leave:
+    a) Medical certificate from a registered medical practitioner
+    b) Hospital discharge summary (if hospitalized)
+    c) Any supporting documents as deemed necessary by the Medical Officer
+
+2.4 Medical leave of up to 30 days per semester may be granted without affecting the student's academic standing, subject to documentation.
+
+2.5 For hospitalization cases: Students hospitalized for more than 2 consecutive days are eligible for medical leave covering the entire hospitalization period plus 3 days of recovery.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 3: ATTENDANCE CONDONATION
+
+3.1 Students with medical leave absences will have those days condoned (not counted against attendance).
+
+3.2 After condonation, if attendance meets the 75% threshold, the student is eligible for examinations without restriction.
+
+3.3 If post-condonation attendance is between 65-74%, the student may appear for examinations with a written undertaking from a parent/guardian.
+
+3.4 The condonation process must be initiated through the Student Services Portal within 10 days of returning from medical leave.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 4: MEDICAL EMERGENCY PROVISIONS
+
+4.1 In cases of sudden medical emergencies (accidents, acute illness requiring emergency hospitalization), special provisions apply.
+
+4.2 Students unable to attend classes or examinations due to a verified medical emergency will be granted:
+    a) Full attendance condonation for the emergency period
+    b) Right to sit for deferred/make-up examinations
+    c) Extension of assignment submission deadlines
+
+4.3 Verification process: Emergency medical leaves require submission of:
+    - Hospital admission records
+    - Discharge summary from treating physician
+    - Medical certificate specifying dates of incapacity
+
+4.4 Emergency medical provisions must be invoked within 7 days of the student's return to campus.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 5: CONDONATION LIMITS
+
+5.1 Maximum condonable absence per semester: 15% of total classes
+5.2 Attendance after condonation must not fall below 60%
+5.3 A student may not invoke medical condonation in consecutive semesters without review by the Academic Committee
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DISCLAIMER: This is a sandbox/demo document created for the RAAHAT prototype.
+It does not represent any real institution's policies.

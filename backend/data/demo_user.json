@@ -1,0 +1,32 @@
+{
+  "user_id": "demo-user",
+  "name": "Aryan Sharma (DEMO)",
+  "role": "student",
+  "student_id": "STU-2024-001",
+  "program": "B.Tech Computer Science",
+  "semester": 5,
+  "institution": "Demo University (SANDBOX)",
+  "attendance": 68.0,
+  "insurance": {
+    "policy_id": "HC-12345",
+    "insurer": "HealthCo Insurance (SANDBOX)",
+    "coverage": "Comprehensive Health"
+  },
+  "finance": {
+    "account_id": "ACC-DEMO-001",
+    "upcoming_payments": [
+      {"description": "Monthly Rent", "amount_inr": 18000, "due_date": "2026-10-05"},
+      {"description": "Credit Card Bill", "amount_inr": 7200, "due_date": "2026-10-07"}
+    ]
+  },
+  "demo_scenario": {
+    "event": "I was hospitalized for five days after an accident. I have a Data Science exam on October 3 and I have insurance.",
+    "hospitalization_start": "2026-10-01",
+    "hospitalization_end": "2026-10-06",
+    "exam_course": "CS501",
+    "original_exam_date": "2026-10-03",
+    "world_event": "The Data Science exam has been moved from October 3 to October 2.",
+    "world_event_date": "2026-10-02"
+  },
+  "disclaimer": "SANDBOX: All data is synthetic. Not connected to any real systems."
+}

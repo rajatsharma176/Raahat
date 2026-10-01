@@ -1,0 +1,43 @@
+HEALTHCO INSURANCE - CLAIM FILING DEADLINES AND PROCEDURES
+[SANDBOX DEMO DOCUMENT - NOT A REAL INSURANCE POLICY]
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+FILING DEADLINE SUMMARY
+
+Claim Type               | Deadline
+-------------------------|------------------
+Emergency hospitalization | 30 days post-discharge
+Planned hospitalization   | 15 days post-discharge
+Accident-related claims   | 30 days from incident
+Outpatient               | 15 days from treatment
+
+LATE SUBMISSION POLICY
+- Day 31-45: 10% penalty on eligible amount
+- Day 46-60: 25% penalty on eligible amount
+- Beyond 60 days: Claim may be rejected at insurer's discretion
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+CLAIM REJECTION REASONS (most common)
+
+1. Missing discharge summary (most frequent rejection cause)
+2. Incomplete claim form
+3. Filing after deadline
+4. Non-covered procedure
+5. Pre-existing condition without waiting period completion
+6. Incorrect policy details
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+RESUBMISSION AFTER REJECTION
+
+If your claim is rejected:
+1. Review the rejection notice carefully
+2. Collect any missing documents
+3. Resubmit through the Claims Portal within 15 days of rejection notice
+4. Resubmissions are processed within 5-7 business days
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DISCLAIMER: SANDBOX demo. Not a real insurance policy.

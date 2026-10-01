@@ -1,0 +1,59 @@
+HEALTHCO INSURANCE - CLAIM REQUIREMENTS AND CHECKLIST
+[SANDBOX DEMO DOCUMENT - NOT A REAL INSURANCE POLICY]
+
+Document: HC-CLAIM-REQ-2024
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+HOSPITALIZATION CLAIM CHECKLIST
+
+Before submitting your claim, ensure you have ALL of the following:
+
+□ DISCHARGE SUMMARY (MANDATORY)
+  - Without this, the claim CANNOT be processed
+  - Must include diagnosis, admission date, discharge date
+  - Must be signed by treating physician on hospital letterhead
+
+□ ADMISSION NOTE (MANDATORY)
+  - Initial assessment and reason for admission
+  - Time and date of admission
+
+□ Original hospital bills (for reimbursement claims)
+
+□ Policy holder's government ID
+
+□ Completed HealthCo Claim Form (Form HC-2024-01)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+WHY IS THE DISCHARGE SUMMARY MANDATORY?
+
+The discharge summary is required because:
+1. It confirms the patient was actually hospitalized
+2. It validates the duration of hospitalization
+3. It provides the official medical diagnosis
+4. It confirms the treatment was medically necessary
+5. It is the primary document used to assess claim validity
+
+Missing discharge summary = automatic claim rejection.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+HOW TO OBTAIN A DISCHARGE SUMMARY
+
+1. Request from the hospital at the time of discharge
+2. If not received at discharge, contact the hospital's Medical Records department
+3. Most hospitals can provide discharge summary within 24-48 hours of request
+4. Some hospitals provide digital copies via their patient portal
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+FILING DEADLINES
+
+- Emergency hospitalization: File within 30 days of discharge
+- Planned hospitalization: File within 15 days of discharge
+- Late filing: Subject to a 10% penalty; claims older than 60 days may be rejected
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DISCLAIMER: SANDBOX demo document. HealthCo Insurance is a fictional entity.

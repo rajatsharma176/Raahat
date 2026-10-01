@@ -1,0 +1,94 @@
+DEMO UNIVERSITY - EXAM ABSENCE AND DEFERRAL POLICY
+[SANDBOX DEMO DOCUMENT - NOT A REAL INSTITUTIONAL POLICY]
+
+Document ID: POL-EXAM-2024
+Version: 2.1
+Effective Date: August 1, 2024
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 1: GENERAL PROVISIONS
+
+1.1 All students are expected to appear for scheduled examinations. Missing an examination without prior approval or valid documented reason may result in a grade of zero for that examination.
+
+1.2 This policy recognizes that genuine emergencies may prevent students from appearing for examinations.
+
+1.3 The university provides mechanisms for exam deferral in documented cases of medical emergencies, bereavement, or other exceptional circumstances.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 2: GROUNDS FOR EXAM DEFERRAL
+
+2.1 MEDICAL EMERGENCY
+Students absent due to documented medical emergencies may request exam deferral.
+Medical emergency includes:
+    - Hospitalization (any duration)
+    - Acute illness requiring bed rest certified by a physician
+    - Accidents resulting in physical incapacitation
+    - Emergency surgery or medical procedures
+
+2.2 BEREAVEMENT
+Death of an immediate family member (parent, sibling, spouse, child).
+Maximum deferral period: 7 days from the date of bereavement.
+
+2.3 NATURAL DISASTER OR FORCE MAJEURE
+Events beyond the student's control affecting their ability to appear.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 3: APPLICATION PROCESS FOR EXAM DEFERRAL
+
+3.1 Students must submit a deferral request through the Academic Affairs Portal.
+
+3.2 Deferral requests must be submitted BEFORE the examination date if possible, or within 48 hours after the missed examination.
+
+3.3 If the student is hospitalized and unable to submit the request personally, a parent, guardian, or authorized representative may submit on their behalf.
+
+3.4 Required documents for medical deferral:
+    a) Medical certificate from a registered practitioner (mandatory)
+    b) Hospital discharge summary (mandatory for hospitalization cases)
+    c) Admission records (if available)
+
+3.5 Incomplete applications will be rejected. Students will be notified of missing documents and given 5 days to provide them.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 4: EXAM DATE CHANGE PROVISIONS
+
+4.1 The university reserves the right to change examination dates due to:
+    - Scheduling conflicts
+    - External events (natural disasters, public emergencies)
+    - Technical or administrative reasons
+
+4.2 In case of exam date change, the university will notify students with at least 24 hours' notice.
+
+4.3 IMPORTANT: If an exam date is changed to a date within a student's approved medical leave period, the student's deferral request is automatically extended to cover the new date.
+
+4.4 Students who were already on approved medical leave when an exam date change is announced should be automatically rescheduled. Students should confirm this with the Academic Affairs office.
+
+4.5 If the changed exam date creates a conflict with an ongoing medical absence, the student must notify the Academic Affairs office within 12 hours of the announcement.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 5: MAKE-UP EXAMINATION SCHEDULE
+
+5.1 Make-up examinations for approved deferrals are conducted 2-3 weeks after the original exam date.
+
+5.2 Students who receive exam deferral approval will be notified of the make-up exam schedule within 5 business days.
+
+5.3 Make-up examination format and difficulty are equivalent to the original examination.
+
+5.4 Only one deferral is permitted per course per semester.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SECTION 6: ATTENDANCE ELIGIBILITY FOR DEFERRAL
+
+6.1 Students must have a minimum of 60% attendance (after medical condonation) to be eligible for exam deferral.
+
+6.2 Students with attendance below 60% even after condonation are not eligible for exam deferral and must re-register for the course.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DISCLAIMER: This is a sandbox/demo document created for the RAAHAT prototype.
+It does not represent any real institution's policies.
